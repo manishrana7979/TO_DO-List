@@ -18,7 +18,8 @@ This project helps you manage your daily tasks efficiently — add new tasks, ma
 
 ## 🖼️ Preview
 
-![To-Do List Screenshot](6e4358bb-10c6-4ab2-aedc-73edae010403.png)
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/265dea32-9566-43cc-818f-d329c50bbdff" />
+
 
 ---
 
